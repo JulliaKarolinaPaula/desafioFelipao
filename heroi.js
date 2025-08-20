@@ -1,6 +1,3 @@
-let n = 1;
-
-while (n === 1) {
   let nome = "Jullia"
   let xp = "9500"
 
@@ -26,5 +23,3 @@ while (n === 1) {
 
   console.log("O herói de nome "+nome+" está no nível "+nivel);
 
-  n = readline.questionInt("Digite '0' para sair ou '1' para continuar: ");
-}
